@@ -38,7 +38,7 @@
     {
       "scope": "comment keyword.codetag.notation",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "scope": "constant",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.other",
@@ -63,32 +63,32 @@
     },
     {
       "scope": "constant.other.php",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.other.property",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.other.citation.latex",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
       "scope": "constant.other.character-class.escape",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
       "scope": "constant.other.key",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -103,15 +103,15 @@
     },
     {
       "scope": "constant.numeric",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.language",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.character.escape",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "constant.numeric.line-number.find-in-files",
@@ -147,7 +147,7 @@
     },
     {
       "scope": "entity.name.label",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "entity.name.function.preprocessor",
@@ -163,7 +163,7 @@
     },
     {
       "scope": "entity.name.constant",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "entity.name.namespace",
@@ -239,7 +239,7 @@
     },
     {
       "scope": "entity.other.git-status.hex",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "entity.other.jinja2.delimiter",
@@ -255,7 +255,7 @@
     },
     {
       "scope": "entity.name.operator.custom-literal.number",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "entity.name.type.rust",
@@ -512,7 +512,7 @@
     },
     {
       "scope": ["entity.name.constant.preprocessor", "meta.preprocessor"],
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "meta.diff.git-diff.header",
@@ -640,7 +640,7 @@
     {
       "scope": "region.purplish",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "scope": "source.git-show.commit.sha",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": [
@@ -700,7 +700,7 @@
         "source.git-show meta.diff.git-diff.header.extended.index.from-sha",
         "source.git-show meta.diff.git-diff.header.extended.index.to-sha"
       ],
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "source.git-show meta.diff.range.unified",
@@ -746,7 +746,7 @@
     {
       "scope": "storage.class.restructuredtext.ref",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -883,7 +883,7 @@
     },
     {
       "scope": "support.constant.core.rust",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "text",
@@ -918,7 +918,7 @@
     {
       "scope": "variable.language.arguments",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -928,7 +928,7 @@
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#948ae3"
+        "foreground": "#b5abff"
       }
     },
     {
@@ -943,7 +943,7 @@
     },
     {
       "scope": "variable.other.enummember",
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": [
@@ -970,7 +970,7 @@
         "source.ruby variable.other.readwrite.instance.ruby",
         "source.ruby variable.other.readwrite.class.ruby"
       ],
-      "settings": { "foreground": "#948ae3" }
+      "settings": { "foreground": "#b5abff" }
     },
     {
       "scope": "source.jinja2 variable.other.jinja2.block",
